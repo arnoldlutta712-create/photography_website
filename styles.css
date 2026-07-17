@@ -1,4 +1,6 @@
-
+#menu-toggle {
+    display: none;
+}
 
 
 
@@ -6,8 +8,9 @@
     display: flex;
     justify-content: space-around;
     background-color: #333;
-    margin: -8px;
+    margin: -10px;
     padding: 2% ;
+    margin-right: -25px;
 }
 
 .btn {
@@ -30,36 +33,51 @@
 }
 
 .img1 {
-    width: 100%;
+    width: 90%;
     border-radius: 10px;
     max-width: 900%;
     display: block;
-    margin: 20px auto;  
+    margin: 20px auto;
+    box-shadow: 0 4px 15px #000000;
 }
 
 .img2 {
-    width: 100%;
-    height: auto;
-    border-radius: 5px;
+    width: 90%;
+    border-radius: 10px;
+    max-width: 900%;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 4px 15px #000000;
 }
 
 .img3 {
-    width: 100%;
-    height: auto;
-    border-radius: 5px;
+    width: 90%;
+    border-radius: 10px;
+    max-width: 900%;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 4px 15px #000000;
 }
 
 .img4 {
-    width: 100%;
-    height: auto;
-    border-radius: 5px;
+    width: 90%;
+    border-radius: 10px;
+    max-width: 900%;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 4px 15px #000000;
 }
 
 .img5 {
-    width: 100%;
+    width: 90%;
     height: auto;
-    border-radius: 5px;
+    border-radius: 10px;
+    max-width: 900%;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 4px 15px #000000;
 }
+
 
 .footer {
     background-color: #333;
