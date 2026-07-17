@@ -1,2 +1,32 @@
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    margin: -8px;
+    padding: 2% ;
+}
 
-    
+.btn {
+    background-color: #333;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+
+}
+
+.btn:hover {
+    opacity: 0.5;
+    color:antiquewhite;
+    font-weight: bold;
+    font-size: 5.2rem;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
